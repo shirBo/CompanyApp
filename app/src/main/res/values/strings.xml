@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompanyApp</string>
+    <string name="About">About</string>
+    <string name="URL">Open business website</string>
+    <string name="Mail">Send Email</string>
+    <string name="GPS">Business adress</string>
+    <string name="Phone">Call business</string>
+</resources>
